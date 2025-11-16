@@ -1,4 +1,4 @@
-# Banking/Financial Transaction Database Generator
+# Banking/Financial Transaction Database
 
 This repository contains the Python script used to generate a large-scale, synthetic dataset modeling banking and financial transactions.
 
